@@ -1,0 +1,8 @@
+credenciales de la base de datos
+
+db4free.net
+
+usuario nanoadmin	
+
+password Nano1234$
+
